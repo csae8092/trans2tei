@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="mpxml2tei" default="generate-tei">
+    <property name="collection.id" value="${COL_ID}"/>
+    <property name="tei.dir" value="tei/TEI_${COL_ID}"/>
+    <property name="source.dir" value="trnskrbs_${collection.id}/col"/>
+    <property name="stylesheet" value="mpxml2tei.xsl"/>
+    <property name="lib.dir" value="lib"/>
+
+
+    <target name="clean">
+        <delete dir="${tei.dir}"/>
+        <mkdir dir="${tei.dir}"/>
+    </target>
+
+    <target name="make-tei">
+        <xslt style="${stylesheet}" destdir="${tei.dir}" basedir="${source.dir}">
+            <param name="col-id"  expression="${collection.id}"/>
+            <fileset dir="${source.dir}">
+                <include name="*.mpxml"/>
+            </fileset>
+            <mapper type="glob" from="*.mpxml" to="*.xml"/>
+        </xslt>
+    </target>
+
+    <extension-point name="generate-tei" depends="clean, make-tei"></extension-point>
+</project>

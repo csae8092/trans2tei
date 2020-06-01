@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:map="http://www.w3.org/2005/xpath-functions/map" xmlns:saxon="http://saxon.sf.net/" xmlns:array="http://www.w3.org/2005/xpath-functions/array" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>hansi</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <tei:pb n="1"/>
+            <p xml:id="p1_region_1480947529372_61">A. 2.</p>
+            <p xml:id="p1_region_1480947533989_62">Kaiserliche Akademie der Wissenschaften.</p>
+            <p xml:id="p1_region_1480947537577_63">Protokoll</p>
+            <p xml:id="p1_region_1480947541290_64">Gesammtsitzung am 18. December 1847.</p>
+            <p xml:id="p1_region_1480947548279_65">Anwesend: Der Präsident Freiherr von Hammer-Purgstall
+" Vice-Präsident Baumgartner
+" General Secretär von Ettingshausen
+" zweite Gecretär Wolf
+Die wirklichen Mitglieder
+Prechtl
+Carlini
+Partsch
+Arneth
+Haidinger
+Freiherr von Hügel
+Chmel
+Schrötter
+Endlicher
+Freiherr von Münch-Bellinghausen
+Hyrtl
+Auer</p>
+            <p xml:id="p1_region_1480947555689_66">Verhandlungen</p>
+            <p xml:id="p1_region_1480947561648_67">Der Herr Präsident ertheilte zuerst Herrn Professor Schrötter
+das Wort, welcher schon vor der Sitzung darum angesucht hatte.
+Herr Professor Schrötter erklärte, daß er sich genöthiget sehe einen
+Gegenstand zur Sprache zu bringen, welcher als Grundbedingung ei-
+ner unbefangenen wissenschaftlichen Bewegung im Innern der Aka-
+demie vor Allem festzustellen sey:</p>
+            <tei:pb n="2"/>
+            <p xml:id="p2_region_1480947591085_68">Es habe nämlich dem verehrten Mitgliede Herrn Bergrath Hai-
+dinger gefallen in der Versammlung der Freunde der Naturwissen-
+schaften am 10. December den Inhalt der Vorträge mitzutheilen, wel-
+che Tags vorher von Herrn Professor Dr. Hyrtl und von dem Sprecher
+/: Professor Schrötter :/ in der Sitzung der mathematisch-naturwis.
+senschaftlichen Classe der Akademie gehalten worden sind. Da die
+in den Versammlungen der Freunde der Naturwissenschaften
+vorkommenden Mittheilungen in hiesigen öffentlichen Blättern
+bekannt gemacht werden, so können auf solche Weise wissenschaft-
+liche Arbeiten der Mitglieder der Akademie eher vor das Publicum
+gelangen, als sie von Seite der Akademie selbst veröffentlicht 
+werden. Dieß sey sehr mißlich, wenn über solche Arbeiten bloß nach
+dem Anhören eines Vortrages ohne weitere Dazwischenkunft des
+Verfassers berichtet wird, und noch mehr, wenn der Verfasser in
+der Akademie über eine Arbeit nur eine vorläufige Mittheilung
+machen wollte, und die weitere Ausführung derselben erst spä-
+ter zu geben beabsichtiget. Professor Schrötter knüpfte an diese
+Bemerkungen das Ansuchen, die Akademie möge sich darüber
+aussprechen, ob und wie fern ein Mitglied berechtiget sey, über
+die von andern Mitgliedern in der Akademie gehaltenen Vor-
+träge Etwas zu veröffentlichen, damit Jeder, welcher der Aka-
+demie Mittheilungen zu machen wünscht, sich darnach benehmen
+könne.</p>
+            <p xml:id="p2_region_1480947600258_69">Der Herr Präsident äußerte nach diesem, daß
+er für sich selbst, ohne von dem Vorhaben des Herrn
+Professors Schrötter etwas zu wissen, Willens war,
+in der gegenwärtigen Sitzung über die in der
+Wiener-Zeitung und in den Schmidl'schen Blättern
+erschienenen Versammlungs-Berichte der Freun-
+de der Naturwissenschaften zu sprechen, worin es
+nebst andern die Akademie angehenden Bemer-
+kunden heißt, daß Herr Bergrath Haidinger
+dieser Versammlung die Eröffnung der wissen-
+schaftlichen Arbeiten der Akademie angezeigt
+habe. Der Herr Präsident las aus der Wiener 
+Zeitung vom 13. December die hierauf sich beziehende</p>
+            <tei:pb n="3"/>
+            <p xml:id="p3_region_1480951202940_5">Stelle vor, und erklärte, daß er die darin gemach-
+te Mittheilung unzuläßig finde.</p>
+            <p xml:id="p3_region_1480951220209_7">Herr Regierungsrath Endlicher schloß sich den
+Bemerkungen des Herrn Prof. Schrötter an, und
+stellte den Antrag, es sey der Herrn Bergrath
+sich öffentlicher Mittheilungen über die in der
+Haidinger von Seite der Akademie zu ersuchen,
+Akademie vorkommenden Vorträge zu enthalten.</p>
+            <p xml:id="p3_region_1480951212596_6">Herr Vice-Präsident Baumgartner bemerkte, daß zwischen den an den
+Herrn Professor Schrötter und von dem Herrn Präsidenten her-
+vorgehobenen Vorgängen ein großer Unterschied obwalte. In
+der Wiener Zeitung sey von der bloßen Thatsache, daß die Sitzun-
+gen der Akademie begonnen haben, die Rede, die Mittheilung
+dieser Thatsache könne wohl keinem Anstande unterliegen,
+und es würde den Mitgliedern der Akademie ein zu großer
+Zwang auferlegt, wenn dieselben nicht einmal sagen dürften,
+daß die Akademie Sitzungen halte. Anders jedoch sey es mit
+den Mittheilungen des Inhalts der Vorträge zu nehmen.</p>
+            <p xml:id="p3_region_1480951233984_9">Herr Hofrath Freiherr von Münch mein-
+te derlei Einschaltungen in die Wiener Zeitung
+von Seite der Akademie seyen weder in der
+vor der Hand
+Geschäftordnung begründet, noch nöthig;
+da die Akademie regelmäßig ihre Sitzungs-
+berichte herausgebe. Es bleibe Anderen überlas-
+sen aus diesen Berichten Auszüge zu machen und
+für das größere Publicum zuzurichten.</p>
+            <p xml:id="p3_region_1480951226200_8">Der General-Secretär erklärte es für wünschenwerth,
+daß die Herrn Mitglieder der Akademie über die Sitzungen
+eher keine Mittheilungen machen, bis dieß von Seite der
+Akademie durch einen Artikel in der Wiener Zeitung ge-
+schehen sey; er halte es für eine seiner Obliegenheiten im
+Einverständnisse mit den übrigen Vorständen zu seiner Zeit
+kurze Anzeigen des wissenschaftlichen Inhalts der Sitzungen 
+für das große Publicum zur Einrückung in die Wiener Zei-
+tund zu verfassen, und er trage hiemit auf die Einführung
+solcher Artikel an.</p>
+            <tei:pb n="4"/>
+            <p xml:id="p4_region_1481107560548_11">Nachdem Herr Vice-Präsident Baumgartner, Professor
+Schrötter, und der General-Secretär für die Nothwendigkeit kur-
+zer Anzeigen der wissenschaftlichen Thätigkeit der Akademie
+und deren Einrückung in die Wiener Zeitung; die Herrn
+Regierungsräthe Endlicher und Prechtl aber dagegen gespro-
+chen hatten, wurde über den Antrag des General-Secretärs
+zur Abstimmung geschritten.</p>
+            <p xml:id="p4_region_1481107571624_12">Gegen den Antrag stimmten die Herrn
+Auer, Freiherr v. Münch, Endlicher, Chmel, Freiherr
+v. Hügel, Prechtl und Wolf.
+Für den Antrag: die Herrn Hyrtl, Schrötter,
+Haidinger, Arneth, Partsch dann der General-Se-
+cretär, der Vice-Präsident und der Präsident.
+Herr Director Carlini enthielt sich der Abstimmung.
+Sonach wurde mit 8 Stimmen gegen 7 die Einrückung
+in die Wiener Zeitung von kurzen Anzeigen der
+wissenschaftlichen Thätigkeit der Akademie geneh-
+miget.</p>
+            <p xml:id="p4_region_1481107590703_14">Die umständ-
+lichere Äu-
+ßerung folgt
+im Anhange</p>
+            <p xml:id="p4_region_1481107582404_13">Herr Bergrath Haidinger erlärte hierauf, daß er ferner-
+hin keine öffentlichen Mittheilungen über die Sitzungen der Aka-
+demie machen wolle. Was er bis jetzt gethan habe, sey aus freu-
+diger Anerkennung des Fortschrittes und im Interesse aller,
+welche daran Antheil nehmen, geschehen. Er betrachte die Leistun-
+gen der Akademie als ein Gemeingut der ganzen gebildeten
+Welt, und es falle ihm schwer zu schweigen, wo es sich um Arbeit
+und Anregung zu solcher durch das Beispiel Anderer handle.</p>
+            <p xml:id="p4_region_1481107599548_15">Der Herr Präsident theilte der Akademie
+folgendes mit:
+Auf meine Anfrage, ob die Weglassung des
+Paragraphes von einzuführenden Fremden als
+ein absolutes Verbot anzusehen sey, oder ob der-
+selbe nur weggetrichten worden, um keine zu gro-
+ßen Erwartungen der Öffentlichkeit zu erregen, ha-
+ben mich Seine kaiserliche Hoheit verständigt, daß</p>
+            <tei:pb n="5"/>
+            <p xml:id="p5_region_1481108655247_17">diese Ansicht die richtig sey, und daß in so fern
+nicht Seine Majestät für die Zukunft Ewas anderes
+verfügen sollten, es dem Präsidenten überlassen
+bleibt, in Gesammtsitzungen einzelne ausgezeich-
+nete Gelehrte, welche keine Akademiker sind,
+ausnahmsweise als Gäste einzuführen.</p>
+            <p xml:id="p5_region_1481108664327_18">Der General-Secretär erstattete nun Bericht über die an die
+Akademie eingegangenen Bücher und Eingaben, welche theilweise
+bereits in den Classensitzungen vorgelegt waren.</p>
+            <p xml:id="p5_region_1481108674436_19">Bei Erwähnung einer Zuschrift des k.k. Hofsecretärs v. Sachse,
+mittels welcher der Akademie 54 bei der k.k. vereinigten Hofkanz-
+lei noch vorräthig gewesene Exemplare der Statuten zugesendet
+wurden, machte der General-Secretär bemerklich, daß eine
+neue Auflage der Statuten nothwendig sey, um auch die größe-
+re Anzahl bald zu erwählender, Ehren- und correspondirenden Mit-
+glieder der Akademie damit betheilen zu können.</p>
+            <p xml:id="p5_region_1481108683250_20">Eine Eingabe der k.k. Hofbuchhändler Braumüller und Seidel,
+welche um den Titel einer Buchhandlung der Kaiserlichen Akade-
+mie ansuchen und sich zu Dienstleistungen erbieten, konnte
+aus dem Grunde für den gegenwärtigen Zeitpunct nicht er-
+ledigt werden, weil die Verhältnisse der Akademie zur Staats-
+druckerei und zu dem Aerarial-Drucksorten-Verschleisse noch
+nicht regulirt sind. Dieser Umstand gab der Akademie zu ei-
+ner Besprechung gedachter Verhältnisse Anlaß.</p>
+            <p xml:id="p5_region_1481108691689_21">Es wurde hervorgehoben, daß die Akademie,
+ungeachtet bereits druckfertige Arbeiten ihrer
+Mitglieder vorliegen, im gegenwärtigen Zeitpunc-
+te noch nicht wisse:</p>
+            <p xml:id="p5_region_1481108709027_23">a. Für welche Bogenzahl im Jahre ihr die un-
+entgeltliche Benützung der k.k. Staats-
+druckerei zustehe.</p>
+            <p xml:id="p5_region_1481108700432_22">b. Wie diese unentgeltliche Benützung zu 
+verstehen sey; ob damit der bloße Satz-
+und Druck gemeint sey, oder auch das
+Papier hiezu von der Staatsdruckerei un-
+entgeltlich gestellt werden würde.</p>
+            <tei:pb n="6"/>
+            <p xml:id="p6_region_1481719037996_1">c. Ob der Akademie oder der Staatsverwal-
+tund die aus dem Verkaufe der Drucksa-
+chen eingehenden Beträge zufallen.</p>
+            <p xml:id="p6_region_1481719046389_2">d. Wie es mit den abgesonderten Werken ge-
+halten werde, deren Herausgabe die Aka-
+demie als Verleger zu übernehmen be-
+schließt.</p>
+            <p xml:id="p6_region_1481719054720_3">An diese Bemerkungen wurde die Frage ge-
+knüpft, ob die Akademie nicht mit vollem Grunde
+auch die unentgeltliche Beförderung ihrer
+Correspondenz durch die k.k. Postanstalt anspre-
+chen könne?</p>
+            <p xml:id="p6_region_1481719061724_4">In Folge dieser Besprechungen stellte Herr Regier-
+ungsrath Endlicher den Antrag, die Akademie wolle eschlie-
+ßen, daß der durchlauchtigste Herr Curator in einem eige-
+nen im Namen der Akademie bei Höchstdemselben anzubrin-
+genden Gesuche gebeten werde der Akademie über die
+obigen Puncte die nöthigen Weisungen zukommen zu lassen.</p>
+            <p xml:id="p6_region_1481719069633_5">Herr Vicepräsident Baumgartner bemerkte,
+daß die zwei Gegenstände, Druck- und Postfrei-
+heit in abgesonderten Eingaben vorzulegen wä-
+ren, damit jeder Gegenstand unbehindert von
+dem andern, auf dem angemessenen behördlichen
+Wege seiner Erledigung zugeführt werden könne.</p>
+            <p xml:id="p6_region_1481719078931_6">Der Herr Präsident entgegenete, daß solche Eingaben
+an den durchlauchtigsten Herrn Erzherzog überflüssig seyen,
+da Hochderselbe über Einschreiten des Herrn Präsidenten
+beiden Gegenständen bereits die nöthige Sorgfalt gewid-
+met habe, die Verhandlungen darüber sich im zuge befinden,
+und die dießfällige allerhöchste Entscheidung nächstens
+bevorstehe. Es wären sonach derlei Eingaben ganz unnütze
+Behelligungen des hohen Herrn Curators.</p>
+            <p xml:id="p6_region_1481719085093_7">Deise Äußerung des Herrn Präsidenten
+wurde von mehreren Seiten damit widerspro-
+chen, daß bis jetzt nicht die Akademie als solche
+um Erledigung der fraglichen Puncte gebeten</p>
+            <tei:pb n="7"/>
+            <p xml:id="p7_region_1481719099648_8">habe, eine Beschleunigung derselben als uner-
+läßliches Bedürfniß erschiene, und daher die in
+Antrag gebrachten Eingaben stattfinden sollten.</p>
+            <p xml:id="p7_region_1481719104749_9">Der Antrag des Herrn Regierungsrathes Endlicher wur-
+de sofort mit überwiegender Stimmenmehrheit angenommen.</p>
+            <p xml:id="p7_region_1481719111441_10">Auf die Frage, ob der Entwurf dieser Eingaben
+der Akademie zur Gutheißung vorgelegt, oder
+deren Abfassung den Vorständen allein überlas-
+sen werden solle, wurde der letztere Antrag
+einstimmig genehmiget.</p>
+            <p xml:id="p7_region_1481719119210_11">Da die Vorlegung der an die Akademie eingegangenen
+Bücher, welche der General-Secretär fortsetzte, eine länge-
+re Zeit in Anspruch nahm, so sprach Herr Regierungsrath End-
+licher den Wunsch aus, daß ein kürzerer Modus zur Erledigung
+dieses an sich minder bedeutenden Geschäftes ausfindig ge-
+macht werden möge.</p>
+            <p xml:id="p7_region_1481719126168_12">Nach einer kurzen Besprechung hierüber
+wurde entschieden, daß künftighin die ein-
+gehenden Bücher nebst einem Verzeichnisse der-
+selben, nach den Classen getrennt, auf eigenen
+Tischen im Versammlungslocale der Akade-
+mie zur Ansicht der Herrn Mitglieder bereit
+liegen sollen.</p>
+            <p xml:id="p7_region_1481719136760_13">Die Secretäre gingen jetzt zum Vortrage der Ansuchen
+von Geldbewilligungen über, welche die Classen vor die Ge-
+sammtakademie zu bringen beschlossen hatten. Es verlangte:</p>
+            <p xml:id="p7_region_1481719143328_14">a. die historisch-philologische Classe</p>
+            <p xml:id="p7_region_1481719150379_15">1. Die Aufnahme eines Journal-Lesezimmers in der Stadt
+und in der Nähe der k.k. Hofbibliothek.
+2. Einen Aufwand jährlicher 600 fr durch zwei Jahre zu Her-
+ausgabe von Wassaf's persischer Geschichte.
+3. Ein Honorar von 2000 fr in zwei Jahren zahlbar für zwei Wer-
+ke des Hern Regierungsrathes Arneth.</p>
+            <p xml:id="p7_region_1481719154638_16">b. Die mathematisch-physikalische Classe forderte:</p>
+            <tei:pb n="8"/>
+            <p xml:id="p8_region_1481719177070_17">1. Die Bewilligung von 240 fl 56 Kr zum Ankaufe eines Gonio-
+meters für eine Arbeit des Herrn Professor Schrötter.</p>
+            <p xml:id="p8_region_1481719183342_18">2. Den Betrag von 50 fl zum Ankauf von Honigsteinen eben-
+falls für Herrn Professor Schrötter.</p>
+            <p xml:id="p8_region_1481719205743_20">3. Die Bewilligung von 300 fr für Material zu vergleichenden
+anatomischen Untersuchungen des Herrn Professor Dr.
+Hyrtl, und</p>
+            <p xml:id="p8_region_1481719214058_21">4. Bewilligung von 20 fr monatlich durch ein Jahr zur Bezah-
+lung eines Zeichners für die Arbeiten des Herrn Professor
+Dr. Hyrtl.</p>
+            <p xml:id="p8_region_1481719231000_23">5. Bewilligung von 100 fl
+jährlich zur Unterstützung
+der geognostischen Pro-
+vinzial-Vereine</p>
+            <p xml:id="p8_region_1481719236428_24">6. Bewilligung von
+2000 fr zu einer Reise
+nach Frankreich und
+England zum Studi-
+um der geognosti-
+schen Arbeiten in 
+diesen Ländern.</p>
+            <p xml:id="p8_region_1481719223044_22">Nach Vorlesung dieser Ansuchen erklärte der
+Herr Präsident, daß es noch nicht an der Zeit sey,
+sich in Bewilligung größerer Geldsummen
+einzulassen, weil die Akademie die ihr zur Ver-
+fügung stehenden Geldkräfte nicht gehörig ken-
+ne. Diese hängen von den Beträgen ab, welche
+für Präsenz-Honorare und Reisevergütungen
+zu zahlen seyn werden, und ferner von dem
+Grade der unentgeltlichen Benützung der Druck-
+erei, und von der Befreiung von den Postgebüh-
+ren für die Correspondenz. Uiber alle diese Puncte
+sey aber noch keine Entscheidung vorhanden.</p>
+            <p xml:id="p8_region_1481719244962_25">Die Akademie stimmte der Ansicht des Herrn Präsiden-
+ten bei, und beschloß die Erledigung der obigen Ansuchen
+noch zu verschieben.</p>
+            <p xml:id="p8_region_1481719255133_26">Herr Regierungsrath Endlicher stellte
+den Antrag, daß derlei kleine Beträge wie
+z.B. der von Herr Professor Schrötter ange-
+suchten 50 fr, selbst der Betrag für das Goniome-
+ter, von dem General-Secretär aus dem ihm
+zugewiesenen Verlagsgelde bestritten werden
+sollten.</p>
+            <p xml:id="p8_region_1481719261014_27">Auf die Äusserung des General-Secretärs daß die-
+ses Verlagsgeld hiezu nicht bestimmt sey, und auch nicht
+hinreichen würde, beschloß die Akademie das Präsidium zu
+ermächtigen höhern Ortes um einen Vorschluß von 2000 fr</p>
+            <tei:pb n="9"/>
+            <p xml:id="p9_region_1481719319498_28">zur Verwendung für kleinern wissenschaftlichen Auslagen
+zum Behufe der Arbeiten der Mitglieder nach jedesmaliger
+Gutheißung der Classen einzuschreiten.</p>
+            <p xml:id="p9_region_1481719325520_29">Herr Bergrath Haidinger übergab im Auftrage des Herrn
+k.k. Professor Dr. Hoffer ein an die Akademie adressirtes
+und mit der Bezeichnung "eine neue Gattung Farbenringe
+betreffen" versehenes versiegeltes Parquet zur Aufbewahr-
+ung.</p>
+            <p xml:id="p9_region_1481719332805_30">Der General-Secretär wurde beauftragt selbes zu 
+übernehmen und mit dem Siegel der Akademie zu
+versehen.
+Hiemit wurde die Sitzung geschlossen.</p>
+            <p xml:id="p9_region_1481719338499_31">Hammer-Purgstall</p>
+            <p xml:id="p9_region_1481719342618_32">A Baumgartner</p>
+            <p xml:id="p9_region_1481719346346_33">F Wolf</p>
+            <p xml:id="p9_region_1481719354037_35">AvEttingshausen</p>
+            <p xml:id="p9_region_1481719349497_34">Freyh v Münch</p>
+            <p xml:id="p9_region_1481719357640_36">JJPrechtl</p>
+            <p xml:id="p9_region_1481719363194_37">A Schrötter</p>
+            <p xml:id="p9_region_1481719367422_38">Endlicher</p>
+            <p xml:id="p9_region_1481719374270_39">Herr Bergrath Haidinger äußerte sich am oben bezeichneten
+Orte folgendermaßen:
+Ich bitte doch auch um Erlaubniß, in dieser Angelegenheit ein
+Wort beizufügen.
+In Bezug auf die Mittheilung in der Wiener Zeitung vom 13.
+December darf ich bemerken, daß nicht nur die Nachricht vom Beginn der
+Sitzungen, sondern noch vieles Andere über die Akademie, das mir noch 
+nicht einmal jetzt bekannt ist, bereits in der allgemeinen Zeitung vom 30.
+November gedruckt zu lesen ist.
+Es wäre doch eine unerhörte Tyrannei, wenn die Akademie ihrer
+eigenen Mitgliedern, und die besteht doch aus diesen Mitgliedern, ver</p>
+            <tei:pb n="10"/>
+            <p xml:id="p10_region_1481719390791_40">hindern wollte, dasjenige bekannt zu machen, was jeder ungenannte,
+ungekannte Correspondent der allgemeinen Zeitung thun darf.
+In Beziehung auf wissenschaftliche Mittheilungen, die doch der
+Bekanntmachung wegen eigentlich vorgetragen werden, lade ich mei-
+nen hochverehrten Freund, Herrn Professor Schrötter, oder irgend andere
+gegenwärtige hochverehrte Mitglieder ein, was ich etwa vorgetragen dürf-
+te, wenn es auch nicht das Interesse der erwähnten Mittheilung des
+Herrn Professors erreicht, sie sogleich und wo immer möglichst be-
+kannt zu machen, denn es ist nun zu diesem Zwecke mitgetheilt.
+Ich war in einem andern Verhältnisse als die andern hochver-
+ehrten Mitglieder; ich hätte die Akademie ignoriren müssen, hät-
+te ich nicht dasjenige von ihr erwähnt, was ich als Anerkennung
+des Werthes der Mittheilungen sagen zu müssen glaubte. Ich
+will ein lebendes Glied eines lebenden Körpers seyn. Ich habe
+ohnedem zwischen wissenschaftlichen Mittheilungen und dem
+unterschieden, was angefangen und nicht vollendet ist.
+Da die Mittheilungen nun durch den Herrn Generalsecre-
+tär so mehr in Aussicht sind, so werde ich nicht erwarten von der
+Akademie angegangen zu werden, nichts mehr über ihre Ver-
+handlungen bekannt zu machen, im Gegentheil muß ich 
+die Akademie bitten, daß sie mir gestattet, nichts mehr von
+ihr mitzutheilen.
+Die Akademie ist nach dem allerhöchsten Statuten für
+Erweiterung und Verbreitung der Wissenschaften da, sie ist
+Mittel nicht Zweck. Wir besitzen dieses Mittel durch Seiner
+Majestät Allerhöchste Gnade; jetzt kann geschehen was früher 
+unmöglich war, und es soll auch möglichst zu diesem Zwecke be-
+nutzt werden.
+So genau mein Gedächtniß geht, mit den Fehlern der
+mündlichen Mittheilung wiedergegeben.</p>
+            <p xml:id="p10_region_1481719395705_41">W Haidinger</p>
+        </body>
+    </text>
+</TEI>
