@@ -11,5 +11,6 @@ RUN pip install requests lxml json2xml
 WORKDIR /data
 RUN wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
 RUN git clone --depth=1 --branch master --single-branch https://github.com/Transkribus/TranskribusPyClient.git
+RUN git clone --depth=1 --branch dev --single-branch https://github.com/TEIC/Stylesheets.git
 COPY . .
 CMD ["bash"]
