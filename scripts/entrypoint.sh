@@ -9,9 +9,11 @@ echo "#######################################"
 echo "Generating TEIS from METS for Documents from Collection ${COL_ID}"
 echo "#######################################"
 
-ant -DCOL_ID=${COL_ID} -f /data/scripts/build_tei.xml
+# ant -DCOL_ID=${COL_ID} -f /data/scripts/build_tei.xml
 
 
 echo "#######################################"
 echo "Generating DOCX for TEIS from Collection ${COL_ID}"
 echo "#######################################"
+
+./tei2docx.sh
