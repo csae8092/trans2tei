@@ -1,2 +1,2 @@
-sudo docker build -t transtei .
-sudo docker run -it --rm --env-file .env -v $PWD/TEI:/data/tei --name transtei transtei
+docker build -t transtei .
+docker run -it --rm --env-file .env -v $PWD/mets:/data/mets -v $PWD/tei:/data/tei -v $PWD/scripts:/data/scripts --name transtei transtei
