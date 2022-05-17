@@ -9,7 +9,7 @@
     <target name="make-tei">
         <xslt style="${stylesheet}" destdir="${tei.dir}" basedir="${source.dir}">
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-            <classpath location="/data/saxon/saxon9he.jar"/>
+            <classpath location="./saxon/saxon9he.jar"/>
             <param name="col-id"  expression="${collection.id}"/>
             <fileset dir="${source.dir}">
                 <include name="*.xml"/>

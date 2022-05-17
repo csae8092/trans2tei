@@ -34,7 +34,7 @@ jobs:
         python ./scripts/fetch_mets.py
     - name: Transform to TEI
       run: |
-        ant -DCOL_ID=${COL_ID} -f ./scripts/build_tei.xml
+        ant -DCOL_ID=${COL_ID} -f ./build_tei.xml
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Collated Work
