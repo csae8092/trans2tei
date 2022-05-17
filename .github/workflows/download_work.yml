@@ -1,12 +1,13 @@
 name: Download and process
 
-on:
-  workflow_dispatch
+on: 
+  workflow_dispatch:
     inputs:
-        colId:
-          description: 'Collection ID'     
-          required: true
-          default: '84522'
+      colId:
+        description: 'Collection ID'     
+        required: true
+        default: '84522'
+
 
 jobs:
   build_pages:
