@@ -2,9 +2,9 @@
 <project basedir="." name="mpxml2tei" default="generate-tei">
 
     <property name="collection.id" value="${COL_ID}"/>
-    <property name="tei.dir" value="/data/tei/${collection.id}"/>
-    <property name="source.dir" value="/data/mets/${collection.id}"/>
-    <property name="stylesheet" value="/data/page2tei/page2tei-0.xsl"/>
+    <property name="tei.dir" value="./tei/${collection.id}"/>
+    <property name="source.dir" value="./mets/${collection.id}"/>
+    <property name="stylesheet" value="./page2tei/page2tei-0.xsl"/>
     <property name="lib.dir" value="lib"/>
     <target name="make-tei">
         <xslt style="${stylesheet}" destdir="${tei.dir}" basedir="${source.dir}">
