@@ -1,8 +1,6 @@
 # trans2tei
 
-Dockerized workflow to dump Transkribus Documents as TEI files and DOCX 
+GitHub Repo to export METS from Transkribus and convert them to XML/TEIS via GitHub Actions
 
-``` shell
-docker build -t transtei .
-docker run -it --rm --env-file .env -v $PWD/mets:/data/mets -v $PWD/tei:/data/tei -v $PWD/scripts:/data/scripts --name transtei transtei
-```
+* set Github Secrets as in `./env-sample`
+* go to Actions, add the ID of the collection to process
