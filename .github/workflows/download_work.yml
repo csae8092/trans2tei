@@ -11,7 +11,7 @@ on:
 
 jobs:
   build_pages:
-    name: Publish Edition as GitHub Pages Website
+    name: Download METS files from Transkribus and convert them to TEIs
     runs-on: ubuntu-latest
     env:
       ANT_OPTS: -Xmx5g
@@ -32,3 +32,9 @@ jobs:
     - name: Download METS Files
       run: |
         python ./scripts/fetch_mets.py
+    - name: Transform to TEI
+      run: |
+        ant -DCOL_ID=${COL_ID} -f ./scripts/build_tei.xml
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Collated Work
